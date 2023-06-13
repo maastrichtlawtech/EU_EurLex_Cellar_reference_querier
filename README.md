@@ -4,4 +4,6 @@ This repository allows you to build a network of EU law(s) based on references f
 
 The code can be used to find relevant or applicable EU documents given certain input documents.
 
+Do not forget to create the folder structure mentioned in the notebook if you want to write the results to files.
+
 The code is released under an Apache 2.0 license. An acknowledgment would be appreciated.
